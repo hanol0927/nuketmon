@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/TestRoot4/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "너켓몬",
+    "description": "너켓몬 1.16.5 (Forge v36.2.42)",
+    "icon": "https://hanol0927.github.io/nuketmon/servers/Nuketmon-1.16.5/Icon.png",
+    "address": "nerkemon.dotsminestudio.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.42"
+  },
+  "untrackedFiles": []
+}
